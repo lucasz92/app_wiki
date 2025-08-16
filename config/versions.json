@@ -1,0 +1,14 @@
+{
+  "1": [
+    {
+      "version_number": 1,
+      "timestamp": "2025-08-16T17:35:36.260034",
+      "title": "asd",
+      "content": "# Procedimiento 5S: [Nombre del Procedimiento]\n\n## 📋 Información General\n- **Área/Departamento:** [Especificar área]\n- **Responsable:** [Nombre del responsable]\n- **Fecha de creación:** [Fecha]\n- **Versión:** 1.0\n\n## 🎯 Objetivo\n[Describir el objetivo del procedimiento]\n\n## 📖 Definiciones\n- **Seiri (Clasificar):** [Definición específica para este procedimiento]\n- **Seiton (Ordenar):** [Definición específica para este procedimiento]\n- **Seiso (Limpiar):** [Definición específica para este procedimiento]\n- **Seiketsu (Estandarizar):** [Definición específica para este procedimiento]\n- **Shitsuke (Disciplina):** [Definición específica para este procedimiento]\n\n## 🔄 Procedimiento\n\n### 1️⃣ Seiri (Clasificar)\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n\n### 2️⃣ Seiton (Ordenar)\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n\n### 3️⃣ Seiso (Limpiar)\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n\n### 4️⃣ Seiketsu (Estandarizar)\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n\n### 5️⃣ Shitsuke (Disciplina)\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n- [ ] [Paso específico]\n\n## 📊 Indicadores de Control\n| Indicador | Meta | Frecuencia de Medición |\n|-----------|------|------------------------|\n| [Indicador 1] | [Meta] | [Frecuencia] |\n| [Indicador 2] | [Meta] | [Frecuencia] |\n\n## 📝 Registros\n- [Registro 1]\n- [Registro 2]\n\n## 🔄 Revisión y Mejora\n- **Frecuencia de revisión:** [Especificar]\n- **Responsable de revisión:** [Nombre]\n- **Próxima revisión:** [Fecha]\n",
+      "category_id": 2,
+      "tags": "",
+      "change_description": "Versión inicial",
+      "content_hash": 7781037565214860605
+    }
+  ]
+}

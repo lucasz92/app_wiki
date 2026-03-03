@@ -3,8 +3,9 @@
 Una aplicación de escritorio estilo wiki desarrollada en Python con PyQt6 y SQLite para gestionar documentación empresarial de manera organizada y eficiente. Diseño inspirado en ChatGPT con funcionalidades avanzadas.
 
 ## 🚀 Características Principales
-[!IMPORTANT]
-asdasd
+
+[!IMPORTANT] sad
+
 
 ### 📝 Editor Avanzado
 - **Editor Markdown** con sintaxis highlighting y vista previa en tiempo real

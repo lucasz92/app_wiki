@@ -4,7 +4,8 @@ Una aplicación de escritorio estilo wiki desarrollada en Python con PyQt6 y SQL
 
 ## 🚀 Características Principales
 
-[!IMPORTANT] sad
+> [!IMPORTANT]
+> Esta es información crucial que el usuario no debe pasar por alto.
 
 
 ### 📝 Editor Avanzado
